@@ -1,0 +1,7 @@
+C:\Users\Furkan\source\repos\MatrisCarpim\MatrisCarpim\bin\Debug\MatrisCarpim.exe.config
+C:\Users\Furkan\source\repos\MatrisCarpim\MatrisCarpim\bin\Debug\MatrisCarpim.exe
+C:\Users\Furkan\source\repos\MatrisCarpim\MatrisCarpim\bin\Debug\MatrisCarpim.pdb
+C:\Users\Furkan\source\repos\MatrisCarpim\MatrisCarpim\obj\Debug\MatrisCarpim.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\MatrisCarpim\MatrisCarpim\obj\Debug\MatrisCarpim.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\MatrisCarpim\MatrisCarpim\obj\Debug\MatrisCarpim.exe
+C:\Users\Furkan\source\repos\MatrisCarpim\MatrisCarpim\obj\Debug\MatrisCarpim.pdb
