@@ -1,0 +1,6 @@
+C:\Users\Furkan\source\repos\AsalSayiToplami\AsalSayiToplami\bin\Debug\AsalSayiToplami.exe.config
+C:\Users\Furkan\source\repos\AsalSayiToplami\AsalSayiToplami\bin\Debug\AsalSayiToplami.exe
+C:\Users\Furkan\source\repos\AsalSayiToplami\AsalSayiToplami\bin\Debug\AsalSayiToplami.pdb
+C:\Users\Furkan\source\repos\AsalSayiToplami\AsalSayiToplami\obj\Debug\AsalSayiToplami.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\AsalSayiToplami\AsalSayiToplami\obj\Debug\AsalSayiToplami.exe
+C:\Users\Furkan\source\repos\AsalSayiToplami\AsalSayiToplami\obj\Debug\AsalSayiToplami.pdb
