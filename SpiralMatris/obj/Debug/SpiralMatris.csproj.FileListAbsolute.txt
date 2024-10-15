@@ -1,0 +1,7 @@
+C:\Users\Furkan\source\repos\SpiralMatris\SpiralMatris\bin\Debug\SpiralMatris.exe.config
+C:\Users\Furkan\source\repos\SpiralMatris\SpiralMatris\bin\Debug\SpiralMatris.exe
+C:\Users\Furkan\source\repos\SpiralMatris\SpiralMatris\bin\Debug\SpiralMatris.pdb
+C:\Users\Furkan\source\repos\SpiralMatris\SpiralMatris\obj\Debug\SpiralMatris.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\SpiralMatris\SpiralMatris\obj\Debug\SpiralMatris.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\SpiralMatris\SpiralMatris\obj\Debug\SpiralMatris.exe
+C:\Users\Furkan\source\repos\SpiralMatris\SpiralMatris\obj\Debug\SpiralMatris.pdb
