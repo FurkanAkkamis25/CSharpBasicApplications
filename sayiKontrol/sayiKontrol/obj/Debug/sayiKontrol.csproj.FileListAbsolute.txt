@@ -1,0 +1,7 @@
+c:\users\furkan\source\repos\sayiKontrol\sayiKontrol\obj\Debug\sayiKontrol.csprojAssemblyReference.cache
+c:\users\furkan\source\repos\sayiKontrol\sayiKontrol\obj\Debug\sayiKontrol.csproj.CoreCompileInputs.cache
+c:\users\furkan\source\repos\sayiKontrol\sayiKontrol\bin\Debug\sayiKontrol.exe.config
+c:\users\furkan\source\repos\sayiKontrol\sayiKontrol\bin\Debug\sayiKontrol.exe
+c:\users\furkan\source\repos\sayiKontrol\sayiKontrol\bin\Debug\sayiKontrol.pdb
+c:\users\furkan\source\repos\sayiKontrol\sayiKontrol\obj\Debug\sayiKontrol.exe
+c:\users\furkan\source\repos\sayiKontrol\sayiKontrol\obj\Debug\sayiKontrol.pdb
