@@ -1,0 +1,7 @@
+c:\users\furkan\source\repos\ardisikSayiGrubu\ardisikSayiGrubu\bin\Debug\ardisikSayiGrubu.exe.config
+c:\users\furkan\source\repos\ardisikSayiGrubu\ardisikSayiGrubu\bin\Debug\ardisikSayiGrubu.exe
+c:\users\furkan\source\repos\ardisikSayiGrubu\ardisikSayiGrubu\bin\Debug\ardisikSayiGrubu.pdb
+c:\users\furkan\source\repos\ardisikSayiGrubu\ardisikSayiGrubu\obj\Debug\ardisikSayiGrubu.csprojAssemblyReference.cache
+c:\users\furkan\source\repos\ardisikSayiGrubu\ardisikSayiGrubu\obj\Debug\ardisikSayiGrubu.csproj.CoreCompileInputs.cache
+c:\users\furkan\source\repos\ardisikSayiGrubu\ardisikSayiGrubu\obj\Debug\ardisikSayiGrubu.exe
+c:\users\furkan\source\repos\ardisikSayiGrubu\ardisikSayiGrubu\obj\Debug\ardisikSayiGrubu.pdb
