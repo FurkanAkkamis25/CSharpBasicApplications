@@ -1,0 +1,7 @@
+c:\users\furkan\source\repos\medyanOrtalama\medyanOrtalama\bin\Debug\medyanOrtalama.exe.config
+c:\users\furkan\source\repos\medyanOrtalama\medyanOrtalama\bin\Debug\medyanOrtalama.exe
+c:\users\furkan\source\repos\medyanOrtalama\medyanOrtalama\bin\Debug\medyanOrtalama.pdb
+c:\users\furkan\source\repos\medyanOrtalama\medyanOrtalama\obj\Debug\medyanOrtalama.csprojAssemblyReference.cache
+c:\users\furkan\source\repos\medyanOrtalama\medyanOrtalama\obj\Debug\medyanOrtalama.csproj.CoreCompileInputs.cache
+c:\users\furkan\source\repos\medyanOrtalama\medyanOrtalama\obj\Debug\medyanOrtalama.exe
+c:\users\furkan\source\repos\medyanOrtalama\medyanOrtalama\obj\Debug\medyanOrtalama.pdb
