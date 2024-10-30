@@ -1,0 +1,7 @@
+c:\users\furkan\source\repos\polinom\polinom\bin\Debug\polinom.exe.config
+c:\users\furkan\source\repos\polinom\polinom\bin\Debug\polinom.exe
+c:\users\furkan\source\repos\polinom\polinom\bin\Debug\polinom.pdb
+c:\users\furkan\source\repos\polinom\polinom\obj\Debug\polinom.csprojAssemblyReference.cache
+c:\users\furkan\source\repos\polinom\polinom\obj\Debug\polinom.csproj.CoreCompileInputs.cache
+c:\users\furkan\source\repos\polinom\polinom\obj\Debug\polinom.exe
+c:\users\furkan\source\repos\polinom\polinom\obj\Debug\polinom.pdb
