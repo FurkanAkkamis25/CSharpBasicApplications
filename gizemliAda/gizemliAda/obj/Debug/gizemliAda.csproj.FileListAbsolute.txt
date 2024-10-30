@@ -1,0 +1,6 @@
+c:\users\furkan\source\repos\gizemliAda\gizemliAda\bin\Debug\gizemliAda.exe.config
+c:\users\furkan\source\repos\gizemliAda\gizemliAda\bin\Debug\gizemliAda.exe
+c:\users\furkan\source\repos\gizemliAda\gizemliAda\bin\Debug\gizemliAda.pdb
+c:\users\furkan\source\repos\gizemliAda\gizemliAda\obj\Debug\gizemliAda.csproj.CoreCompileInputs.cache
+c:\users\furkan\source\repos\gizemliAda\gizemliAda\obj\Debug\gizemliAda.exe
+c:\users\furkan\source\repos\gizemliAda\gizemliAda\obj\Debug\gizemliAda.pdb
