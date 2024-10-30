@@ -1,0 +1,6 @@
+c:\users\furkan\source\repos\uzayMadencisi\uzayMadencisi\bin\Debug\uzayMadencisi.exe.config
+c:\users\furkan\source\repos\uzayMadencisi\uzayMadencisi\bin\Debug\uzayMadencisi.exe
+c:\users\furkan\source\repos\uzayMadencisi\uzayMadencisi\bin\Debug\uzayMadencisi.pdb
+c:\users\furkan\source\repos\uzayMadencisi\uzayMadencisi\obj\Debug\uzayMadencisi.csproj.CoreCompileInputs.cache
+c:\users\furkan\source\repos\uzayMadencisi\uzayMadencisi\obj\Debug\uzayMadencisi.exe
+c:\users\furkan\source\repos\uzayMadencisi\uzayMadencisi\obj\Debug\uzayMadencisi.pdb
