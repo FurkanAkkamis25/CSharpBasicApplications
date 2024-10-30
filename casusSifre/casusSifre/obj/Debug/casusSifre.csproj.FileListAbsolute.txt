@@ -1,0 +1,7 @@
+c:\users\furkan\source\repos\casusSifre\casusSifre\bin\Debug\casusSifre.exe.config
+c:\users\furkan\source\repos\casusSifre\casusSifre\bin\Debug\casusSifre.exe
+c:\users\furkan\source\repos\casusSifre\casusSifre\bin\Debug\casusSifre.pdb
+c:\users\furkan\source\repos\casusSifre\casusSifre\obj\Debug\casusSifre.csprojAssemblyReference.cache
+c:\users\furkan\source\repos\casusSifre\casusSifre\obj\Debug\casusSifre.csproj.CoreCompileInputs.cache
+c:\users\furkan\source\repos\casusSifre\casusSifre\obj\Debug\casusSifre.exe
+c:\users\furkan\source\repos\casusSifre\casusSifre\obj\Debug\casusSifre.pdb
