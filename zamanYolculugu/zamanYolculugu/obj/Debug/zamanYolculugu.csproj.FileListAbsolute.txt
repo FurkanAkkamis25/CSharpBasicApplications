@@ -1,0 +1,6 @@
+c:\users\furkan\source\repos\zamanYolculugu\zamanYolculugu\bin\Debug\zamanYolculugu.exe.config
+c:\users\furkan\source\repos\zamanYolculugu\zamanYolculugu\bin\Debug\zamanYolculugu.exe
+c:\users\furkan\source\repos\zamanYolculugu\zamanYolculugu\bin\Debug\zamanYolculugu.pdb
+c:\users\furkan\source\repos\zamanYolculugu\zamanYolculugu\obj\Debug\zamanYolculugu.csproj.CoreCompileInputs.cache
+c:\users\furkan\source\repos\zamanYolculugu\zamanYolculugu\obj\Debug\zamanYolculugu.exe
+c:\users\furkan\source\repos\zamanYolculugu\zamanYolculugu\obj\Debug\zamanYolculugu.pdb
