@@ -1,0 +1,6 @@
+c:\users\furkan\source\repos\ikiliAramaAlgoritması\ikiliAramaAlgoritması\bin\Debug\ikiliAramaAlgoritması.exe.config
+c:\users\furkan\source\repos\ikiliAramaAlgoritması\ikiliAramaAlgoritması\bin\Debug\ikiliAramaAlgoritması.exe
+c:\users\furkan\source\repos\ikiliAramaAlgoritması\ikiliAramaAlgoritması\bin\Debug\ikiliAramaAlgoritması.pdb
+c:\users\furkan\source\repos\ikiliAramaAlgoritması\ikiliAramaAlgoritması\obj\Debug\ikiliAramaAlgoritması.csproj.CoreCompileInputs.cache
+c:\users\furkan\source\repos\ikiliAramaAlgoritması\ikiliAramaAlgoritması\obj\Debug\ikiliAramaAlgoritması.exe
+c:\users\furkan\source\repos\ikiliAramaAlgoritması\ikiliAramaAlgoritması\obj\Debug\ikiliAramaAlgoritması.pdb
