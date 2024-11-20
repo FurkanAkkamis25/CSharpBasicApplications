@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YazarVeKitap", "YazarVeKitap\YazarVeKitap.csproj", "{18B2BDCF-9050-4646-8ECC-4BD7DC5EA60D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18B2BDCF-9050-4646-8ECC-4BD7DC5EA60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B2BDCF-9050-4646-8ECC-4BD7DC5EA60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B2BDCF-9050-4646-8ECC-4BD7DC5EA60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B2BDCF-9050-4646-8ECC-4BD7DC5EA60D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

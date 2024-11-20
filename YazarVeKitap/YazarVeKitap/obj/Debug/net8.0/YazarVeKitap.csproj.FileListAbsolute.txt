@@ -1,0 +1,4 @@
+/Users/furkanakkamis/RiderProjects/YazarVeKitap/YazarVeKitap/obj/Debug/net8.0/YazarVeKitap.GeneratedMSBuildEditorConfig.editorconfig
+/Users/furkanakkamis/RiderProjects/YazarVeKitap/YazarVeKitap/obj/Debug/net8.0/YazarVeKitap.AssemblyInfoInputs.cache
+/Users/furkanakkamis/RiderProjects/YazarVeKitap/YazarVeKitap/obj/Debug/net8.0/YazarVeKitap.AssemblyInfo.cs
+/Users/furkanakkamis/RiderProjects/YazarVeKitap/YazarVeKitap/obj/Debug/net8.0/YazarVeKitap.csproj.CoreCompileInputs.cache
