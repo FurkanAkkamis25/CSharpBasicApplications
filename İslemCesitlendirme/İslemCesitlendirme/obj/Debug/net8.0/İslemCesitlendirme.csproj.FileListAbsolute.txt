@@ -1,0 +1,14 @@
+/Users/furkanakkamis/RiderProjects/İslemCesitlendirme/İslemCesitlendirme/bin/Debug/net8.0/İslemCesitlendirme
+/Users/furkanakkamis/RiderProjects/İslemCesitlendirme/İslemCesitlendirme/bin/Debug/net8.0/İslemCesitlendirme.deps.json
+/Users/furkanakkamis/RiderProjects/İslemCesitlendirme/İslemCesitlendirme/bin/Debug/net8.0/İslemCesitlendirme.runtimeconfig.json
+/Users/furkanakkamis/RiderProjects/İslemCesitlendirme/İslemCesitlendirme/bin/Debug/net8.0/İslemCesitlendirme.dll
+/Users/furkanakkamis/RiderProjects/İslemCesitlendirme/İslemCesitlendirme/bin/Debug/net8.0/İslemCesitlendirme.pdb
+/Users/furkanakkamis/RiderProjects/İslemCesitlendirme/İslemCesitlendirme/obj/Debug/net8.0/İslemCesitlendirme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/furkanakkamis/RiderProjects/İslemCesitlendirme/İslemCesitlendirme/obj/Debug/net8.0/İslemCesitlendirme.AssemblyInfoInputs.cache
+/Users/furkanakkamis/RiderProjects/İslemCesitlendirme/İslemCesitlendirme/obj/Debug/net8.0/İslemCesitlendirme.AssemblyInfo.cs
+/Users/furkanakkamis/RiderProjects/İslemCesitlendirme/İslemCesitlendirme/obj/Debug/net8.0/İslemCesitlendirme.csproj.CoreCompileInputs.cache
+/Users/furkanakkamis/RiderProjects/İslemCesitlendirme/İslemCesitlendirme/obj/Debug/net8.0/İslemCesitlendirme.dll
+/Users/furkanakkamis/RiderProjects/İslemCesitlendirme/İslemCesitlendirme/obj/Debug/net8.0/refint/İslemCesitlendirme.dll
+/Users/furkanakkamis/RiderProjects/İslemCesitlendirme/İslemCesitlendirme/obj/Debug/net8.0/İslemCesitlendirme.pdb
+/Users/furkanakkamis/RiderProjects/İslemCesitlendirme/İslemCesitlendirme/obj/Debug/net8.0/İslemCesitlendirme.genruntimeconfig.cache
+/Users/furkanakkamis/RiderProjects/İslemCesitlendirme/İslemCesitlendirme/obj/Debug/net8.0/ref/İslemCesitlendirme.dll
