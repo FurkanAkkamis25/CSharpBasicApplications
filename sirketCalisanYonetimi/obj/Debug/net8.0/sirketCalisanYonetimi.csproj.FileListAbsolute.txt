@@ -1,0 +1,14 @@
+/Users/furkanakkamis/RiderProjects/sirketCalisanYonetimi/sirketCalisanYonetimi/obj/Debug/net8.0/sirketCalisanYonetimi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/furkanakkamis/RiderProjects/sirketCalisanYonetimi/sirketCalisanYonetimi/obj/Debug/net8.0/sirketCalisanYonetimi.AssemblyInfoInputs.cache
+/Users/furkanakkamis/RiderProjects/sirketCalisanYonetimi/sirketCalisanYonetimi/obj/Debug/net8.0/sirketCalisanYonetimi.AssemblyInfo.cs
+/Users/furkanakkamis/RiderProjects/sirketCalisanYonetimi/sirketCalisanYonetimi/obj/Debug/net8.0/sirketCalisanYonetimi.csproj.CoreCompileInputs.cache
+/Users/furkanakkamis/RiderProjects/sirketCalisanYonetimi/sirketCalisanYonetimi/bin/Debug/net8.0/sirketCalisanYonetimi
+/Users/furkanakkamis/RiderProjects/sirketCalisanYonetimi/sirketCalisanYonetimi/bin/Debug/net8.0/sirketCalisanYonetimi.deps.json
+/Users/furkanakkamis/RiderProjects/sirketCalisanYonetimi/sirketCalisanYonetimi/bin/Debug/net8.0/sirketCalisanYonetimi.runtimeconfig.json
+/Users/furkanakkamis/RiderProjects/sirketCalisanYonetimi/sirketCalisanYonetimi/bin/Debug/net8.0/sirketCalisanYonetimi.dll
+/Users/furkanakkamis/RiderProjects/sirketCalisanYonetimi/sirketCalisanYonetimi/bin/Debug/net8.0/sirketCalisanYonetimi.pdb
+/Users/furkanakkamis/RiderProjects/sirketCalisanYonetimi/sirketCalisanYonetimi/obj/Debug/net8.0/sirketCalisanYonetimi.dll
+/Users/furkanakkamis/RiderProjects/sirketCalisanYonetimi/sirketCalisanYonetimi/obj/Debug/net8.0/refint/sirketCalisanYonetimi.dll
+/Users/furkanakkamis/RiderProjects/sirketCalisanYonetimi/sirketCalisanYonetimi/obj/Debug/net8.0/sirketCalisanYonetimi.pdb
+/Users/furkanakkamis/RiderProjects/sirketCalisanYonetimi/sirketCalisanYonetimi/obj/Debug/net8.0/sirketCalisanYonetimi.genruntimeconfig.cache
+/Users/furkanakkamis/RiderProjects/sirketCalisanYonetimi/sirketCalisanYonetimi/obj/Debug/net8.0/ref/sirketCalisanYonetimi.dll
