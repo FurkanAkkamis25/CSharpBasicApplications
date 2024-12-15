@@ -1,0 +1,14 @@
+/Users/furkanakkamis/RiderProjects/hayvanatBahcesi/hayvanatBahcesi/bin/Debug/net8.0/hayvanatBahcesi
+/Users/furkanakkamis/RiderProjects/hayvanatBahcesi/hayvanatBahcesi/bin/Debug/net8.0/hayvanatBahcesi.deps.json
+/Users/furkanakkamis/RiderProjects/hayvanatBahcesi/hayvanatBahcesi/bin/Debug/net8.0/hayvanatBahcesi.runtimeconfig.json
+/Users/furkanakkamis/RiderProjects/hayvanatBahcesi/hayvanatBahcesi/bin/Debug/net8.0/hayvanatBahcesi.dll
+/Users/furkanakkamis/RiderProjects/hayvanatBahcesi/hayvanatBahcesi/bin/Debug/net8.0/hayvanatBahcesi.pdb
+/Users/furkanakkamis/RiderProjects/hayvanatBahcesi/hayvanatBahcesi/obj/Debug/net8.0/hayvanatBahcesi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/furkanakkamis/RiderProjects/hayvanatBahcesi/hayvanatBahcesi/obj/Debug/net8.0/hayvanatBahcesi.AssemblyInfoInputs.cache
+/Users/furkanakkamis/RiderProjects/hayvanatBahcesi/hayvanatBahcesi/obj/Debug/net8.0/hayvanatBahcesi.AssemblyInfo.cs
+/Users/furkanakkamis/RiderProjects/hayvanatBahcesi/hayvanatBahcesi/obj/Debug/net8.0/hayvanatBahcesi.csproj.CoreCompileInputs.cache
+/Users/furkanakkamis/RiderProjects/hayvanatBahcesi/hayvanatBahcesi/obj/Debug/net8.0/hayvanatBahcesi.dll
+/Users/furkanakkamis/RiderProjects/hayvanatBahcesi/hayvanatBahcesi/obj/Debug/net8.0/refint/hayvanatBahcesi.dll
+/Users/furkanakkamis/RiderProjects/hayvanatBahcesi/hayvanatBahcesi/obj/Debug/net8.0/hayvanatBahcesi.pdb
+/Users/furkanakkamis/RiderProjects/hayvanatBahcesi/hayvanatBahcesi/obj/Debug/net8.0/hayvanatBahcesi.genruntimeconfig.cache
+/Users/furkanakkamis/RiderProjects/hayvanatBahcesi/hayvanatBahcesi/obj/Debug/net8.0/ref/hayvanatBahcesi.dll
