@@ -1,0 +1,14 @@
+/Users/furkanakkamis/RiderProjects/BankaYonetimSistemi/BankaYonetimSistemi/bin/Debug/net8.0/BankaYonetimSistemi
+/Users/furkanakkamis/RiderProjects/BankaYonetimSistemi/BankaYonetimSistemi/bin/Debug/net8.0/BankaYonetimSistemi.deps.json
+/Users/furkanakkamis/RiderProjects/BankaYonetimSistemi/BankaYonetimSistemi/bin/Debug/net8.0/BankaYonetimSistemi.runtimeconfig.json
+/Users/furkanakkamis/RiderProjects/BankaYonetimSistemi/BankaYonetimSistemi/bin/Debug/net8.0/BankaYonetimSistemi.dll
+/Users/furkanakkamis/RiderProjects/BankaYonetimSistemi/BankaYonetimSistemi/bin/Debug/net8.0/BankaYonetimSistemi.pdb
+/Users/furkanakkamis/RiderProjects/BankaYonetimSistemi/BankaYonetimSistemi/obj/Debug/net8.0/BankaYonetimSistemi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/furkanakkamis/RiderProjects/BankaYonetimSistemi/BankaYonetimSistemi/obj/Debug/net8.0/BankaYonetimSistemi.AssemblyInfoInputs.cache
+/Users/furkanakkamis/RiderProjects/BankaYonetimSistemi/BankaYonetimSistemi/obj/Debug/net8.0/BankaYonetimSistemi.AssemblyInfo.cs
+/Users/furkanakkamis/RiderProjects/BankaYonetimSistemi/BankaYonetimSistemi/obj/Debug/net8.0/BankaYonetimSistemi.csproj.CoreCompileInputs.cache
+/Users/furkanakkamis/RiderProjects/BankaYonetimSistemi/BankaYonetimSistemi/obj/Debug/net8.0/BankaYonetimSistemi.dll
+/Users/furkanakkamis/RiderProjects/BankaYonetimSistemi/BankaYonetimSistemi/obj/Debug/net8.0/refint/BankaYonetimSistemi.dll
+/Users/furkanakkamis/RiderProjects/BankaYonetimSistemi/BankaYonetimSistemi/obj/Debug/net8.0/BankaYonetimSistemi.pdb
+/Users/furkanakkamis/RiderProjects/BankaYonetimSistemi/BankaYonetimSistemi/obj/Debug/net8.0/BankaYonetimSistemi.genruntimeconfig.cache
+/Users/furkanakkamis/RiderProjects/BankaYonetimSistemi/BankaYonetimSistemi/obj/Debug/net8.0/ref/BankaYonetimSistemi.dll
