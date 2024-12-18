@@ -1,0 +1,14 @@
+/Users/furkanakkamis/RiderProjects/BankaSistemi/BankaSistemi/bin/Debug/net8.0/BankaSistemi
+/Users/furkanakkamis/RiderProjects/BankaSistemi/BankaSistemi/bin/Debug/net8.0/BankaSistemi.deps.json
+/Users/furkanakkamis/RiderProjects/BankaSistemi/BankaSistemi/bin/Debug/net8.0/BankaSistemi.runtimeconfig.json
+/Users/furkanakkamis/RiderProjects/BankaSistemi/BankaSistemi/bin/Debug/net8.0/BankaSistemi.dll
+/Users/furkanakkamis/RiderProjects/BankaSistemi/BankaSistemi/bin/Debug/net8.0/BankaSistemi.pdb
+/Users/furkanakkamis/RiderProjects/BankaSistemi/BankaSistemi/obj/Debug/net8.0/BankaSistemi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/furkanakkamis/RiderProjects/BankaSistemi/BankaSistemi/obj/Debug/net8.0/BankaSistemi.AssemblyInfoInputs.cache
+/Users/furkanakkamis/RiderProjects/BankaSistemi/BankaSistemi/obj/Debug/net8.0/BankaSistemi.AssemblyInfo.cs
+/Users/furkanakkamis/RiderProjects/BankaSistemi/BankaSistemi/obj/Debug/net8.0/BankaSistemi.csproj.CoreCompileInputs.cache
+/Users/furkanakkamis/RiderProjects/BankaSistemi/BankaSistemi/obj/Debug/net8.0/BankaSistemi.dll
+/Users/furkanakkamis/RiderProjects/BankaSistemi/BankaSistemi/obj/Debug/net8.0/refint/BankaSistemi.dll
+/Users/furkanakkamis/RiderProjects/BankaSistemi/BankaSistemi/obj/Debug/net8.0/BankaSistemi.pdb
+/Users/furkanakkamis/RiderProjects/BankaSistemi/BankaSistemi/obj/Debug/net8.0/BankaSistemi.genruntimeconfig.cache
+/Users/furkanakkamis/RiderProjects/BankaSistemi/BankaSistemi/obj/Debug/net8.0/ref/BankaSistemi.dll
