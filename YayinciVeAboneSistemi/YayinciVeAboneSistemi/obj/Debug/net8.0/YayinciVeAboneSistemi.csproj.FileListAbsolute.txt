@@ -1,0 +1,14 @@
+/Users/furkanakkamis/RiderProjects/YayinciVeAboneSistemi/YayinciVeAboneSistemi/bin/Debug/net8.0/YayinciVeAboneSistemi
+/Users/furkanakkamis/RiderProjects/YayinciVeAboneSistemi/YayinciVeAboneSistemi/bin/Debug/net8.0/YayinciVeAboneSistemi.deps.json
+/Users/furkanakkamis/RiderProjects/YayinciVeAboneSistemi/YayinciVeAboneSistemi/bin/Debug/net8.0/YayinciVeAboneSistemi.runtimeconfig.json
+/Users/furkanakkamis/RiderProjects/YayinciVeAboneSistemi/YayinciVeAboneSistemi/bin/Debug/net8.0/YayinciVeAboneSistemi.dll
+/Users/furkanakkamis/RiderProjects/YayinciVeAboneSistemi/YayinciVeAboneSistemi/bin/Debug/net8.0/YayinciVeAboneSistemi.pdb
+/Users/furkanakkamis/RiderProjects/YayinciVeAboneSistemi/YayinciVeAboneSistemi/obj/Debug/net8.0/YayinciVeAboneSistemi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/furkanakkamis/RiderProjects/YayinciVeAboneSistemi/YayinciVeAboneSistemi/obj/Debug/net8.0/YayinciVeAboneSistemi.AssemblyInfoInputs.cache
+/Users/furkanakkamis/RiderProjects/YayinciVeAboneSistemi/YayinciVeAboneSistemi/obj/Debug/net8.0/YayinciVeAboneSistemi.AssemblyInfo.cs
+/Users/furkanakkamis/RiderProjects/YayinciVeAboneSistemi/YayinciVeAboneSistemi/obj/Debug/net8.0/YayinciVeAboneSistemi.csproj.CoreCompileInputs.cache
+/Users/furkanakkamis/RiderProjects/YayinciVeAboneSistemi/YayinciVeAboneSistemi/obj/Debug/net8.0/YayinciVeAboneSistemi.dll
+/Users/furkanakkamis/RiderProjects/YayinciVeAboneSistemi/YayinciVeAboneSistemi/obj/Debug/net8.0/refint/YayinciVeAboneSistemi.dll
+/Users/furkanakkamis/RiderProjects/YayinciVeAboneSistemi/YayinciVeAboneSistemi/obj/Debug/net8.0/YayinciVeAboneSistemi.pdb
+/Users/furkanakkamis/RiderProjects/YayinciVeAboneSistemi/YayinciVeAboneSistemi/obj/Debug/net8.0/YayinciVeAboneSistemi.genruntimeconfig.cache
+/Users/furkanakkamis/RiderProjects/YayinciVeAboneSistemi/YayinciVeAboneSistemi/obj/Debug/net8.0/ref/YayinciVeAboneSistemi.dll
